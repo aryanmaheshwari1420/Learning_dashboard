@@ -4,6 +4,15 @@ A production-quality Android application built with Jetpack Compose, Kotlin Coro
 
 ---
 
+## App Screenshots
+
+| 1. Login Screen | 2. Course Dashboard | 3. Course Details (Python) | 4. Course Details (Gen AI) |
+| :---: | :---: | :---: | :---: |
+| <img src="images/imag4.jpeg" width="220" alt="Login Screen" /> | <img src="images/imag3.jpeg" width="220" alt="Course Dashboard" /> | <img src="images/imag2.jpeg" width="220" alt="Course Details Python" /> | <img src="images/imag1.jpeg" width="220" alt="Course Details Gen AI" /> |
+
+---
+
+
 ## 1. Architecture
 
 The application adopts **MVVM (Model-View-ViewModel)** with the **Repository Pattern** and **Single Source of Truth (SSOT)**:
